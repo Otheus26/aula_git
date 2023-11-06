@@ -1,1 +1,2 @@
 Aulas de Java em breve!
+Atualizar repositório local.
